@@ -5,9 +5,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@android:mipmap/sym_def_app_icon"
+        android:icon="@drawable/app_logo"
         android:label="Kobir Lekha"
-        android:roundIcon="@android:mipmap/sym_def_app_icon"
+        android:roundIcon="@drawable/app_logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
